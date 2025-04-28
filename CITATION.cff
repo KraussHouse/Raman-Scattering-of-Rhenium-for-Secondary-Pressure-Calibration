@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated journal article."
+title: "Raman Scattering of Rhenium for Secondary Pressure Calibration"
+authors:
+  - family-names: "Pease"
+    given-names: "Allison"
+    affiliation: "Lawrence Livermore National Laboratory & Michigan State University"
+    orcid: 0000-0002-5779-5663
+  - family-names: "Zurkowski"
+    given-names: "Clair"
+    affiliation: "Lawrence Livermore National Laboratory"
+    orcid: 0000-0003-2172-3040
+  - family-names: "Chariton"
+    given-names: "Stella"
+    affiliation: "The University of Chicago"
+    orcid: 0000-0001-5522-0498
+  - family-names: "Krauss"
+    given-names: "Heidi N."
+    affiliation: "Michigan State University"
+    orcid: 0000-0002-2279-6551
+  - family-names: "Sneed"
+    given-names: "Daniel"
+    affiliation: "Lawrence Livermore National Laboratory"
+    orcid: 0000-0001-5204-9920
+  - family-names: "Prakapenka"
+    given-names: "Vitali"
+    affiliation: "The University of Chicago"
+    orcid: 0000-0001-9270-2330
+  - family-names: "Baer"
+    given-names: "Bruce"
+    affiliation: "Lawrence Livermore National Laboratory"
+    orcid: 0000-0003-3872-3442
+  - family-names: "Dorfman"
+    given-names: "Susannah M."
+    affiliation: "Michigan State University"
+    orcid: 0000-0002-3968-9592
+  - family-names: "O'Bannon III"
+    given-names: "Earl F."
+    affiliation: "Lawrence Livermore National Laboratory"
+    orcid: 0000-0002-9341-5090
+abstract: "With the increasing number of 100s GPa experiments in the diamond anvil cell (DAC), improved accuracy in secondary pressure calibrations to extreme pressures is essential. The rhenium equation of state has been proposed as a pressure calibrant via X-ray diffraction with potentially broad applications, as it is commonly used as a gasket material in DAC experiments. In this work, we conducted Raman spectroscopy experiments on Re in the DAC and report the pressure shift of the E2g mode, a refined high-pressure C44 and mode-Grüneisen parameter above 200 GPa. We utilized flat, beveled, and toroidal diamond anvils under quasi-hydrostatic and non-hydrostatic conditions. By measuring the E2g mode from the culet edge to the center, we analyzed pressure distribution based on culet type and distance from the anvil center. The shift in the E2g mode can be expressed as a function of pressure, and diamond edge measurements appear reliable across all anvil types. Comparing the center and edge pressures reveals anvil cupping, offering insights into predicting or preventing anvil failure during materials properties measurements at extreme conditions."
+keywords:
+  - "Rhenium"
+  - "Raman Scattering"
+  - "Pressure Calibration"
+  - "Diamond"
+  - "Elasticity"
+date-released:
+doi:
+url:
+type: article
+journal: "Journal of Applied Physics"
+volume:
+issue:
+pages:

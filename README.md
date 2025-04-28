@@ -26,7 +26,7 @@ This software requires the following Python libraries:
   * `matplotlib` - Plotting library (`matplotlib.pyplot` for visualization)
 
 ## Authors
-Allison M. Pease<sup>1, 2</sup>, Clair Zurkowski<sup>1</sup>, Stella Chariton<sup>3</sup>, Heidi N. Krauss<sup>2</sup>, Daniel Sneed<sup>1</sup>, Vitali Prakapenka<sup>3</sup>, Bruce Baer<sup>2</sup>, Susannah M. Dorfman<sup>2</sup>, and Earl F. O'Bannon III<sup>1</sup>  
+Allison M. Pease<sup>1, 2</sup>, Clair Zurkowski<sup>1</sup>, Stella Chariton<sup>3</sup>, Heidi N. Krauss<sup>2</sup>, Daniel Sneed<sup>1</sup>, Vitali Prakapenka<sup>3</sup>, Bruce Baer<sup>1</sup>, Susannah M. Dorfman<sup>2</sup>, and Earl F. O'Bannon III<sup>1</sup>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>1</sup>Physics Division, Physical and Life Sciences Directorate, Lawerence Livermore National Laboratory, Livermore, California, United States  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>Department of Earth and Environmental Sciences, Michigan State University, East Lansing, Michigan, United States  
@@ -43,4 +43,4 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ##
 Copyright &copy; 2025 Pease et al.
 
-Last Updated: February 13<sup>th</sup>, 2025
+Last Updated: March 25<sup>th</sup>, 2025
