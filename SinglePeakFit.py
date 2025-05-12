@@ -52,41 +52,41 @@ New_Folder = "Output_Data"
         # Remember to add .csv to the end of the file name
 CSV_File_Name = "Saved_Data.csv"
 # Initial Guess
-center_guess=245
+center_guess=180
 # Iteration Values
 Convergence_Range = 0.05
 Max_Iterations = 800
 Check_Standard_Deviation_of_Peak_Position = 1.0
 # Turn on or off print features
     # When On: this will make a graph for each peak fit and background combination
-Make_Images = off
+Make_Images = on
     # When On: this will make a comparison graph of all peak fit and background combinations for each text file
 Make_Comparison_Graph = on
     # When On: this will print the anti-stokes average and standard deviation of the peak position for every peak fit
 Print_Average_and_STDEV = on
     # When On: if the standard deviation of the peak position if greater than the user input value, a check standard deviation (CHECK STDV FOR) message will be printed along with the file name, sign, and standard deviation of the peak position
-Check_STDEV = off
+Check_STDEV = on
     # When On: this will sort the first column of the original text files
         # If the first row of the first column is less than or equal to zero it will be saved as a sorted file in the Data directory
         # If the first row of the first column is greater than zero it will be saved as a sorted file in the Pressure Calibration directory
-Sort_and_Save_Files = off
+Sort_and_Save_Files = on
     # When On: this will analyze the unsorted files in the original directory inputed by the user (Old_Folder)
 Analyse_Original_Files = on
 # Turn on or off which peak fits (Gaussian, Lorentzian, and Voigt) along with which background fits (Constant, Linear, and Second-Order Polynomial) to analyze
 enabled_fits_and_backgrounds = {
     "Gaussian": {
-        "Constant": off,
-        "Linear": off,
+        "Constant": on,
+        "Linear": on,
         "Second-Order Polynomial": on
     },
     "Lorentzian": {
-        "Constant": off,
-        "Linear": off,
+        "Constant": on,
+        "Linear": on,
         "Second-Order Polynomial": on
     },
     "Voigt": {
-        "Constant": off,
-        "Linear": off,
+        "Constant": on,
+        "Linear": on,
         "Second-Order Polynomial": on
     }
 }
